@@ -73,9 +73,3 @@ Plateforme de partage de builds, tutoriels et contenus communautaires avec systÃ
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>Merci de visiter mon profil ğŸ’œ</i>
-</p>
