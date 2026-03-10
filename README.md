@@ -1,75 +1,18 @@
-<h1 align="center">Salut, moi c'est Fraxoo 👋</h1>
+# 💫 About Me:
+Développeur web en formation, je construis des projets full-stack avec React, Node.js, JavaScript, TypeScript et PHP afin de renforcer mon portfolio et mes compétences. Je recherche avant tout à progresser sur des projets concrets, propres et utiles.
 
-<p align="center">
-  <b>Développeur web passionné</b><br/>
-  Je crée des applications modernes, dynamiques et pensées pour une vraie expérience utilisateur.
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-A855F7?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-6D28D9?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/john-hardy-7453a6361?trk=contact-info) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fraxo.pro@gmail.com) 
 
----
-
-## À propos de moi
-
-- Développeur web orienté **front-end** et **full-stack**
-- J’aime créer des interfaces propres, responsives et modernes
-- Je travaille avec des technos comme **React, Node.js, JavaScript, TypeScript et PHP**
-- Je développe des projets concrets pour progresser et construire un portfolio solide
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fraxoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fraxoo&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fraxoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Fraxoo&icon=0&color=10)](https://visitcount.itsvg.in)
 
-## Mes compétences
-
-### Front-end
-<p>
-  <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-### Back-end
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-A855F7?style=flat-square&logo=php&logoColor=white" />
-</p>
-
----
-
-## Projets en avant
-
-### MarsAI Festival
-Plateforme web autour d’un festival de courts-métrages IA avec gestion des rôles, films, dashboard et interface moderne.
-
-### Réseau social type Twitter
-Application web avec authentification, publication de contenu, interactions sociales et architecture full-stack.
-
-### Site communautaire Minecraft
-Plateforme de partage de builds, tutoriels et contenus communautaires avec système d’upload et gestion utilisateur.
-
----
-
-## Statistiques GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
-## Me retrouver
-
-<p>
-  <a href="https://github.com/TON-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
