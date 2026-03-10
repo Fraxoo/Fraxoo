@@ -82,13 +82,5 @@ Construire des projets web solides, modernes et bien pensés, tout en continuant
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fraxoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Fraxoo&theme=midnight-purple&hide_border=false" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraxoo&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Fraxoo&icon=0&color=10" />
 </p>
