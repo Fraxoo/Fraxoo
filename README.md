@@ -1,111 +1,50 @@
-<h1 align="center">Salut 👋, moi c'est Fraxoo</h1>
-<h3 align="center">Développeur web en progression</h3>
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="TON_URL_BANNIERE" alt="Bannière GitHub" width="100%" />
-</p>
+###
 
-<p align="center">
-  Développeur web en formation, je conçois des projets <b>full-stack</b> modernes avec
-  <b>React, Node.js, JavaScript, TypeScript et PHP</b> afin de renforcer mon portfolio
-  et mes compétences.
-  <br><br>
-  J’aime créer des applications concrètes, propres et utiles, avec une attention particulière
-  portée à l’interface, à la logique métier et à l’expérience utilisateur.
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+</div>
 
-<p align="center">
-  <a href="mailto:fraxo.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/john-hardy-7453a6361/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/john-hardy-7453a6361/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="TON_URL_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+###
 
-<h2 align="center">💫 À propos de moi</h2>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Fraxoo/Fraxoo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Fraxoo/Fraxoo/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="center">
-  🌱 Je continue à progresser chaque jour en développement front-end et back-end<br>
-  💻 Je développe des applications web modernes, responsives et maintenables<br>
-  🎯 Mon objectif est de construire un portfolio solide avec des projets complets et crédibles<br>
-  ⚡ J’apprécie le code propre, les interfaces soignées et les projets bien structurés
-</p>
+###
 
----
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fraxoo/Fraxoo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fraxoo/Fraxoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fraxoo/Fraxoo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<h2 align="center">🚀 Ce que je fais actuellement</h2>
-
-<p align="center">
-  🔹 Développement de projets full-stack pour enrichir mon portfolio<br>
-  🔹 Approfondissement de React, Node.js, TypeScript et PHP<br>
-  🔹 Travail sur des interfaces modernes et une meilleure expérience utilisateur<br>
-  🔹 Amélioration de la structure et de l’organisation globale de mes projets
-</p>
-
----
-
-<h2 align="center">⚒️ Stack technique</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=CB3837" />
-</p>
-
----
-
-<h2 align="center">📌 Projets mis en avant</h2>
-
-<p align="center">
-  🔹 <b>MarsAI Festival</b> — plateforme full-stack autour d’un festival de courts-métrages IA<br>
-  🔹 <b>Application type réseau social</b> — authentification, rôles, interactions et logique métier<br>
-  🔹 <b>Site communautaire Minecraft</b> — partage de builds, contenus et fonctionnalités communautaires
-</p>
-
----
-
-<h2 align="center">📊 Mes statistiques GitHub</h2>
-
-<p align="center">
-  <a href="https://github.com/Fraxoo">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Fraxoo&show_icons=true&theme=tokyonight&locale=fr" />
-  </a>
-  <a href="https://github.com/Fraxoo">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraxoo&layout=compact&langs_count=8&card_width=320&theme=tokyonight&locale=fr" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=Fraxoo&theme=tokyonight&hide_border=true&background=0D1117&locale=fr" />
-</p>
-
----
-
-<h2 align="center">👀 Visites du profil</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fraxoo&label=Vues%20du%20profil&color=7c3aed&style=flat" alt="Vues du profil" />
-</p>
-
----
-
-<p align="center">
-  <i>Merci de visiter mon profil ✨</i>
-</p>
+###
